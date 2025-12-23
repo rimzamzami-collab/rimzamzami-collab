@@ -102,7 +102,7 @@ Opportunities in **Solutions Engineering** or **Customer Engineering** where I c
 ## 📫 Let's Connect
 
 - 💼 https://www.linkedin.com/in/rim-zamzami-ai-solutions/
-- 📧 ton.email@example.com
+- 📧 rimzamzami@gmail.com
 
 **Currently seeking:** Solutions Engineer / Customer Engineer roles  
 
