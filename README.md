@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rimi!
+# 👋 Hi, I'm Rim!
 
 **Solutions Engineer | AI Project Manager | Building customer-focused tech solutions**
 
