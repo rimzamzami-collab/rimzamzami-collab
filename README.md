@@ -22,7 +22,7 @@ I bridge the gap between **complex technology** and **real-world business proble
 
 ## 💼 Featured Solutions
 
-### 🧺 [Smart Laundry QR System](lien-vers-projet)
+### 🧺 [Smart Laundry QR System](https://github.com/rimzamzami-collab/smart-laundry-qr-system)
 **Challenge:** 216 residents, 6 machines, constant scheduling conflicts  
 **Solution:** Real-time management system with QR authentication  
 **Impact:** 80% conflict reduction, 24/7 production deployment  
