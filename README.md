@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rim!
 
-![a13b5a9426d4eec79784e3a8fd9ab891](https://github.com/user-attachments/assets/3bebae5a-2891-4a36-a9d0-a6fc30006f1a)
+
 
 **Solutions Engineer | AI Project Manager | Building customer-focused tech solutions**
 
