@@ -101,7 +101,7 @@ Opportunities in **Solutions Engineering** or **Customer Engineering** where I c
 
 ## 📫 Let's Connect
 
-- 💼   [My linkedin]([https://github.com/rimzamzami-collab/smart-laundry-qr-system](https://www.linkedin.com/in/rim-zamzami-ai-solutions/))
+- 💼   [My linkedin](https://www.linkedin.com/in/rim-zamzami-ai-solutions/)
 
 **Currently seeking:** Solutions Engineer / Customer Engineer roles  
 
